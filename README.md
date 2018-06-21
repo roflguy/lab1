@@ -1,3 +1,3 @@
 # lab1
 
-bc.jpg
+![Screenshot](bc.jpg)
